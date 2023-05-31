@@ -1,7 +1,7 @@
 <h1 align='center'>Hi there, I'm Nikita ✌️</h1>
  
  <p align='center'>
-  Frontend developer with a year of experience
+  Front-end developer with more than two years of experience
 </p>
 
 
