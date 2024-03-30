@@ -17,7 +17,7 @@ Every day I continue to learn and develop, striving to become an even better spe
 
 ### 💻 Languages and Tools:
 
-<div style='margin: 25px 0px;' align='center'>
+<div align='center'>
     <img src="https://skillicons.dev/icons?i=react,js,ts,jquery,tailwind,mongodb,mysql,postgres,php" />
     <img  style='margin-top: 5px;' src="https://skillicons.dev/icons?i=html,css,scss,git,vscode,idea,figma,ps" />
 </div>
@@ -33,7 +33,8 @@ Every day I continue to learn and develop, striving to become an even better spe
 ---
 
 <details>
-    <summary style='font-size: 16px; margin-bottom: 15px;'>⚙️ GitHub Analytics:</summary>
+    <summary style='font-size: 16px;'>⚙️ GitHub Analytics:</summary>
+    <br>
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=Geletsky&show_icons=true&theme=swift&hide=contribs,prs" />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geletsky&layout=compact&theme=swift" />
 </details>
