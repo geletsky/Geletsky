@@ -1,35 +1,39 @@
-<h1 align='center'>Hi there, I'm Nikita <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=600&size=30&duration=1500&pause=100&color=F7F7F7&center=true&multiline=true&repeat=false&random=false&width=435&height=80&lines=Hi+there%2C+I'm+Nikita;Junior+Frontend+Developer" />
+</h1>
 
 ### 👨🏻‍💻 About me:
+
 <p>
-I am a Front-end Developer with a huge inspiration and passion for creating impressive web applications. My profile on GitHub is a creative space where I demonstrate my skills, projects and a constant striving for development. 
+I focus on developing web interfaces that are user-oriented and visually appealing. Currently focused on mastering React.js and TypeScript, along with a deep understanding of JavaScript. I am currently receiving a bachelor's degree in Applied Computer Science from a State University</p>
+<p>
+My approach to development is based on creating simple but intuitive web solutions based on attention to detail and a desire to improve the user experience. In addition to my technical skills, I am an excellent communicator and know how to work in a team, promoting synergy within teams to achieve exceptional results.
 </p>
 <p>
-My technology stack includes HTML, CSS, and JavaScript, and I use them in combination with the React library to develop user-friendly, dynamic, and responsive web applications. I am actively studying the latest trends in web development and strive to apply them in my work. 
+Every day I continue to learn and develop, striving to become an even better specialist in the field of web development. My goal is to continue to improve my skills and apply them to real-world tasks, contributing to the creation of better web interfaces.
 </p>
 
 ---
 
 ### 💻 Languages and Tools:
-![JavaScript](https://img.shields.io/badge/javascript-%23494F5C.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%23494F5C.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&)
-![HTML5](https://img.shields.io/badge/html5-%23494F5C.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
-![CSS3](https://img.shields.io/badge/css3-%23494F5C.svg?style=for-the-badge&logo=css3&logoColor=%230077B5)
-![SASS](https://img.shields.io/badge/SASS-%23494F5C.svg?style=for-the-badge&logo=SASS&logoColor=%23E4405F)
-![Git](https://img.shields.io/badge/git-%23494F5C.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23494F5C.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%230077B5)
-![Figma](https://img.shields.io/badge/figma-%23494F5C.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
-![Notion](https://img.shields.io/badge/Notion-%23494F5C.svg?style=for-the-badge&logo=notion&logoColor=black)
-![GitHub](https://img.shields.io/badge/github-%23494F5C.svg?style=for-the-badge&logo=github&logoColor=black)
+
+<div style='margin: 25px 0px; text-align: center;'>
+    <img src="https://skillicons.dev/icons?i=react,js,ts,jquery,tailwind,mongodb,mysql,postgres,php" />
+    <img  style='margin-top: 5px;' src="https://skillicons.dev/icons?i=html,css,scss,git,vscode,idea,figma,ps" />
+</div>
 
 ---
 
 ### 🤝 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%23494F5C.svg?style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://www.linkedin.com/in/nikitasurcov/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23494F5C.svg?style=for-the-badge&logo=Instagram&logoColor=%23E4405F)](https://www.instagram.com/geletskyy/)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikitasurcov/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/geletskyy/)
+
 
 ---
 
-### ⚙️ GitHub Analytics:
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Geletsky&show_icons=true&theme=swift&hide=contribs,prs" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geletsky&layout=compact&theme=swift" />
+<details>
+    <summary style='font-size: 16px; margin-bottom: 15px;'>⚙️ GitHub Analytics:</summary>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Geletsky&show_icons=true&theme=swift&hide=contribs,prs" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geletsky&layout=compact&theme=swift" />
+</details>
