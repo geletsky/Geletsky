@@ -17,7 +17,7 @@ Every day I continue to learn and develop, striving to become an even better spe
 
 ### 💻 Languages and Tools:
 
-<div style='margin: 25px 0px; text-align: center;'>
+<div style='margin: 25px 0px;' align='center'>
     <img src="https://skillicons.dev/icons?i=react,js,ts,jquery,tailwind,mongodb,mysql,postgres,php" />
     <img  style='margin-top: 5px;' src="https://skillicons.dev/icons?i=html,css,scss,git,vscode,idea,figma,ps" />
 </div>
