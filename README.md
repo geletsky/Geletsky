@@ -19,7 +19,7 @@ Every day I continue to learn and develop, striving to become an even better spe
 
 <div align='center'>
     <img src="https://skillicons.dev/icons?i=react,js,ts,jquery,tailwind,mongodb,mysql,postgres,php" />
-    <img  style='margin-top: 5px;' src="https://skillicons.dev/icons?i=html,css,scss,git,vscode,idea,figma,ps" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,git,vscode,idea,figma,ps" />
 </div>
 
 ---
