@@ -9,9 +9,6 @@ I focus on developing web interfaces that are user-oriented and visually appeali
 <p>
 My approach to development is based on creating simple but intuitive web solutions based on attention to detail and a desire to improve the user experience. In addition to my technical skills, I am an excellent communicator and know how to work in a team, promoting synergy within teams to achieve exceptional results.
 </p>
-<p>
-Every day I continue to learn and develop, striving to become an even better specialist in the field of web development. My goal is to continue to improve my skills and apply them to real-world tasks, contributing to the creation of better web interfaces.
-</p>
 
 ---
 
