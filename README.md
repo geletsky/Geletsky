@@ -4,9 +4,6 @@
 
 ### 👨🏻‍💻 About me:
 
-<p>
-I focus on developing web interfaces that are user-oriented and visually appealing. Currently focused on mastering React.js and TypeScript, along with a deep understanding of JavaScript. I am currently receiving a bachelor's degree in Applied Computer Science from a State University</p>
-<p>
 
 ---
 
